@@ -1,0 +1,7 @@
+html {
+    background: url(assets/background2.png);
+    background-size: cover;
+}
+img {
+    width: 100vh;
+}
