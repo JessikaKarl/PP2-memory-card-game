@@ -2,18 +2,17 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
 }
 
 h1 {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
     height: 100vh;
     display: flex;
-    background: url(assets/background2.png);
-    background-size: cover;
+    background-color: rgb(250, 221, 56);
 }
 
 .memory-game {
@@ -30,7 +29,7 @@ body {
     position: relative;
     transform: scale(1);
     transform-style: preserve-3d;
-    transition: .5s;
+    transition: transform .5s;
 }
 
 .memory-card:active {
