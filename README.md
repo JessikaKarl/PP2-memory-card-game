@@ -31,7 +31,8 @@ The features that will be implemented to the game with JavaScript is:
 ## Deployment 
 ## Credits 
 ### Content 
-- 
+- [W3Schools](https://www.w3schools.com/) used as sourse of knowledge.
+- [freeCodeCamp](https://www.youtube.com/watch?v=ZniVgo8U7ek) a great video tutorial and guidance, some code was taken and addapted to the project.
 ### Media 
 - The images used for the cards is from clipart.png. It is a webside with images in png format.
 - The favicon is from favicon.io, it is a website with a large catalog of favicon images. 
