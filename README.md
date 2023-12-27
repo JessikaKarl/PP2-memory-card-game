@@ -3,10 +3,13 @@
 Project 2 is a Christmas memory card game, perfect for the holidays to get you in the christmas spirit. 
 ## Design 
 ### Colours 
+The colours used is a neutral beige, black and a yellow colour for contrast. Because the images on the cards has a lot of colours it needed some simple colours to make it look good. 
+The beige as a background on the cards to not take focus from the images and black for the text. 
 ### Typography 
+The font that I used is Times. A simple and beautiful font that is easy to read. 
 ### Wireframes
 ![Image of the wireframe](https://github.com/JessikaKarl/PP2-memory-card-game/assets/147527640/94e4b3ce-2116-45cc-beef-01e3c5f7d474">)
-This wireframe was how the project was supost to look like. When I made the wireframe, I didn't think about how it would be possible to carry out the project. It was a nice design for a memory card game but with the skills and time I had I had to make compromises.
+This wireframe was how the project was supost to look like. When I made the wireframe, I didn't think about how it would be possible to carry out the project. It was a nice design for a memory card game but with the skills and time I had I needed to make compromises.
 ## Features
 The features that will be implemented to the game with JavaScript is: 
 - Flipping cards
