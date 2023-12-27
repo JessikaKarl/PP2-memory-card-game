@@ -5,7 +5,7 @@
 ### Typography 
 ### Wireframes
 ![Image of the wireframe](https://github.com/JessikaKarl/PP2-memory-card-game/assets/147527640/94e4b3ce-2116-45cc-beef-01e3c5f7d474">)
-## Features 
+This wireframe was how the project was supost to look like. When I made the wireframe, I didn't think about how it would be possible to carry out the project. It was a nice design for a memory card game but with the skills and time I had I had to make compromises.
 ### Start 
 ### Rules
 ### Playing cards
