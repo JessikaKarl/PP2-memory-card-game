@@ -18,4 +18,6 @@ This wireframe was how the project was supost to look like. When I made the wire
 ## Credits 
 ### Content 
 ### Media 
+- The images used for the cards is from clipart.png. It is a webside with images in png format.
+- The favicon is from favicon.io, it is a website with a large catalog of favicon images. 
 ### Acknowledgments 
