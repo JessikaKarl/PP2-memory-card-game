@@ -1,5 +1,6 @@
 # Portfolio Project 2 - JavaScript 
 ## Memory card game 
+![]()
 Project 2 is a Christmas memory card game, perfect for the holidays to get you in the christmas spirit. 
 ## Design 
 ### Colours 
@@ -29,6 +30,15 @@ The features that will be implemented to the game with JavaScript is:
 ### Unfixted Bugs 
 - The cards are turned to the wrong side. The back should be facing up on the screen and the front with the diffrent christmas images should be facing down, and flipped up when clicked. 
 ## Deployment 
+The website is deployed to GitHub pages. This is how I deployed:
+
+- Go to GitHub repository and click on the setting tab.
+- To the left side there is a menu. Click on pages.
+- Go to the heading called Branch. Select branch to main and select folder to root. When done click Save.
+- Now the website is deployed.
+
+The live link can be found here - 
+
 ## Credits 
 ### Content 
 - [W3Schools](https://www.w3schools.com/) used as sourse of knowledge.
@@ -37,3 +47,4 @@ The features that will be implemented to the game with JavaScript is:
 - The images used for the cards is from clipart.png. It is a webside with images in png format.
 - The favicon is from favicon.io, it is a website with a large catalog of favicon images. 
 ### Acknowledgments 
+- Thank you to my mentor Oluwafemi Medale for his feedback and guidance.
