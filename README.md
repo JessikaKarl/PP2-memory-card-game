@@ -1,6 +1,7 @@
 # Portfolio Project 2 - JavaScript 
 ## Memory card game 
-![]()
+![Multi device mockup](https://github.com/JessikaKarl/PP2-memory-card-game/assets/147527640/f30933fb-c9d6-40c2-b816-2695dca46245
+)
 Project 2 is a Christmas memory card game, perfect for the holidays to get you in the christmas spirit. 
 ## Design 
 ### Colours 
